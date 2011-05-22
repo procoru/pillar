@@ -1,0 +1,1 @@
+Pillar.Browser = L.Browser;
